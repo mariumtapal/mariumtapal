@@ -1,4 +1,4 @@
-hi, i'm marium (she/her), an undergrad studying math & statistical and data sciences (sds) at smith college 🇺🇸. i use R for most of my work in-and-out of school.
+hi, i'm marium (she/her), an undergrad studying math & statistical and data sciences (sds) at smith college. i use R the most but am comfortable using python and SQL. i sometimes dabble into HTML and CSS to make my work look pretty!
 
 -----------
 
