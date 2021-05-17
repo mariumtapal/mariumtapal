@@ -7,7 +7,7 @@ hi, i'm marium (she/her), an undergrad studying math & statistical and data scie
 here are some of my projects that i maintain or contribute to:
 
 - [baumer-lab/fec16](https://github.com/baumer-lab/fec16): an R 📦 for relational federal election data from the 2016 U.S. elections
-- [NYC PD Allegations](https://github.com/mariumtapal/sds235-final-project) an interactive Shiny dashboard providing exploratory information about the allegations against the NYC police department
+- [NYC PD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny dashboard providing exploratory information about the allegations against the NYC police department
 - [Personal Website](https://mariumtapal.rbind.io): my personal website built using blogdown, Hugo, and the Goa theme
 - [Marium Bakes](https://mariumtapal.github.io/marium-bakes/): a baking recipe website built using R Markdown, HTML, and CSS
 - [Automated Bayesian Simple Normal Regression](https://github.com/mariumtapal/bayes-regression-report): generate a fully customizable R Markdown report with a single line of code
