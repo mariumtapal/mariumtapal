@@ -7,6 +7,7 @@ hi, i'm marium (she/her), an undergrad studying math & statistical and data scie
 here are some of my projects that i maintain or contribute to:
 
 - [baumer-lab/fec16](https://github.com/baumer-lab/fec16): an R 📦 for relational federal election data from the 2016 U.S. elections
+- [smith-tinkerlab/repytah](https://github.com/smith-tinkerlab/repytah): a Python 📦 for building Aligned Hierarchies for sequential data streams
 - [Personal Website](https://mariumtapal.rbind.io): my personal website built using blogdown, Hugo, and the Goa theme
 - [Marium Bakes](https://mariumtapal.github.io/marium-bakes/): a baking recipe website built using R Markdown, HTML, and CSS
 - [NYC PD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny app providing exploratory information about allegations against the NYC PD
