@@ -1,6 +1,4 @@
-hi, i'm marium (she/her), an undergrad studying math & statistical and data sciences (sds) at smith college. i use R the most but am comfortable using python and SQL. i sometimes dabble into HTML and CSS to make my work look pretty! 
-
-i'm looking for full-time opportunities beginning in summer 2022!
+hi, i'm marium (she/her). i am a research associate at harvard business school working with data to improve tools that help people learn about themselves. i studied math & statistical and data sciences (sds) at smith college. 
 
 -----------
 
