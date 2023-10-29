@@ -1,4 +1,4 @@
-hi, i'm marium (she/her). i am a research associate at harvard business school working with data to improve tools that help people learn about themselves. i recently graduated from smith college with a degree in math & statistical and data sciences (sds). 
+hi, i'm marium (she/her). i am a research associate at harvard business school working with data to improve tools that help people learn about themselves. i graduated from smith college with a degree in math & statistical and data sciences (sds). 
 
 -----------
 
