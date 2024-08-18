@@ -1,4 +1,4 @@
-hi, i'm marium (she/her). i am a research associate at harvard business school researching and building statistical tools that help people learn about themselves + improve their well-being. i'm passionate about statistical computing, quantitave methods, and data science education. i graduated from smith college with a degree in math & statistical and data sciences. 
+hi, i'm marium (she/her). i am a research associate at harvard business school researching and building statistical tools that help people learn about themselves + improve their well-being. i'm passionate about statistical computing, quantitave methods, and creating real-world solutions through data-driven and statistical approaches. i also enjoy thinking about statistics and data science pedagogy. i graduated from smith college with a degree in math & statistical and data sciences. 
 
 -----------
 
