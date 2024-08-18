@@ -16,4 +16,4 @@ here are some of my projects that i maintain or have contributed to:
 
 -----------
 
-please feel to reach out [by email](mailto:mariumtapal@gmail.com) or by twitter [@mariumtapal](https://twitter.com/mariumtapal)! you can read more about me on my [website](https://mariumtapal.rbind.io)
+please feel to reach out [by email](mailto:mariumtapal@gmail.com) or by twitter [@mariumtapal](https://twitter.com/mariumtapal)! you can read more about me on my [website](https://www.mariumtapal.com)
