@@ -1,4 +1,4 @@
-hi, i'm marium (she/her). i am a research associate at harvard business school researching and building statistical tools that help people learn about themselves + improve their well-being. i’m passionate about inference techniques that can help solve real-world problems. i also enjoy thinking about statistics and data science pedagogy. i graduated from smith college with a degree in math & statistical and data sciences.
+hi, i'm marium (she/her). i am a incoming statistics phd student at rutgers university. i'm interested in developing statistical tools and methodologies that address real-world problems. i also enjoy thinking about statistics and data science pedagogy. previously, i was a research associate at harvard business school, where I contributed to the development of research tools at the intersection of data science and organizational behavior. before that, i graduated from smith college with a degree in math & statistical and data sciences.
 
 -----------
 
@@ -16,4 +16,4 @@ here are some of my projects that i maintain or have contributed to:
 
 -----------
 
-please feel to reach out [by email](mailto:mariumtapal@gmail.com) or by twitter [@mariumtapal](https://twitter.com/mariumtapal)! you can read more about me on my [website](https://www.mariumtapal.com)
+please feel to reach out [by email](mailto:mariumtapal@gmail.com)! you can read more about me on my [website](https://www.mariumtapal.com)
