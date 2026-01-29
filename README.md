@@ -1,4 +1,4 @@
-hi, i'm marium (she/her). i am an incoming statistics phd student at rutgers university. i'm interested in developing statistical tools and methodologies that address real-world problems and enjoy thinking about statistics and data science pedagogy. previously, i was a research associate at harvard business school, where I contributed to the development of research tools at the intersection of data science and organizational behavior. before that, i graduated from smith college with a degree in math & statistical and data sciences.
+hi, i'm marium (she/her). i am a first year statistics phd student at rutgers university. i'm interested in developing statistical tools and methodologies that address real-world problems and enjoy thinking about statistics and data science pedagogy. previously, i was a research associate at harvard business school, where I contributed to the development of research tools at the intersection of data science and organizational behavior. before that, i graduated from smith college with a degree in math & statistical and data sciences.
 
 -----------
 
